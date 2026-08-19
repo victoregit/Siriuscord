@@ -1,3 +1,14 @@
+## 📥 Download
+
+Baixe o Siriuscord para Windows pela página oficial da versão:
+
+[**Baixar Siriuscord 1.0.8**](https://github.com/victoregit/Siriuscord/releases/tag/v1.0.8)
+
+### Arquivos disponíveis
+
+- **Siriuscord-Setup.exe** — instalador recomendado
+- **Siriuscord-win32-x64-1.0.8.zip** — versão portátil
+
 # Siriuscord
 
 O **Siriuscord** é uma versão personalizada e não oficial do cliente open source [Stoat](https://github.com/stoatchat), criada para o nosso grupo de amigos e inspirada na identidade do nosso servidor do Discord.
